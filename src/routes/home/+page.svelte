@@ -7,7 +7,7 @@
 				<rect id="frame" rx="10" ry="10" x="0" y="0" width="240" height="172">
 				</rect>
 			</svg> -->
-			<div id="info-symbol" class="frame" style="background-color: yellow;display: flex; align-items: center; justify-content: center;">
+			<div id="info-symbol" class="frame" style="background-color: yellow;">
 				<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 				<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="120px" height="120px"
 					 viewBox="0 0 496.158 496.158" style="enable-background:new 0 0 496.158 496.158;" xml:space="preserve">
@@ -133,6 +133,6 @@
 	}
 
 	.frame {
-		width: 240px;height: 200px;border-radius: 5%;
+		width: 240px;height: 200px;border-radius: 5%; display: flex; flex-direction: column; align-items: center; justify-content: center;
 	}
 </style>
