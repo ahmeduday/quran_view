@@ -1,0 +1,458 @@
+[
+    {
+        "key": "1",
+        "value": " Al-Fatihah(The Opening)"
+    },
+    {
+        "key": "2",
+        "value": " Al-Baqarah(The Cow)"
+    },
+    {
+        "key": "3",
+        "value": " Al-‘Imran(The Family of Amran)"
+    },
+    {
+        "key": "4",
+        "value": " An-Nisa’(The Women)"
+    },
+    {
+        "key": "5",
+        "value": " Al-Ma’idah(The Food)"
+    },
+    {
+        "key": "6",
+        "value": " Al-An’am(The Cattle)"
+    },
+    {
+        "key": "7",
+        "value": " Al-A’raf(The Elevated Places)"
+    },
+    {
+        "key": "8",
+        "value": " Al-Anfal(Voluntary Gifts)"
+    },
+    {
+        "key": "9",
+        "value": " Al-Bara’at / At-Taubah(The Immunity)"
+    },
+    {
+        "key": "10",
+        "value": " Yunus(Jonah)"
+    },
+    {
+        "key": "11",
+        "value": " Hud(Hud)"
+    },
+    {
+        "key": "12",
+        "value": " Yusuf(Joseph)"
+    },
+    {
+        "key": "13",
+        "value": " Ar-Ra’d(The Thunder)"
+    },
+    {
+        "key": "14",
+        "value": " Ibrahim(Abraham)"
+    },
+    {
+        "key": "15",
+        "value": " Al-Hijr(The Rock)"
+    },
+    {
+        "key": "16",
+        "value": " An-Nahl(The Bee)"
+    },
+    {
+        "key": "17",
+        "value": " Bani Isra’il(The Israelites)"
+    },
+    {
+        "key": "18",
+        "value": " Al-Kahf(The Cave)"
+    },
+    {
+        "key": "19",
+        "value": " Maryam(Mary)"
+    },
+    {
+        "key": "20",
+        "value": " Ta Ha(Ta Ha)"
+    },
+    {
+        "key": "21",
+        "value": " Al-Anbiya’(The Prophets)"
+    },
+    {
+        "key": "22",
+        "value": " Al-Hajj(The Pilgrimage)"
+    },
+    {
+        "key": "23",
+        "value": " Al-Mu’minun(The Believers)"
+    },
+    {
+        "key": "24",
+        "value": " An-Nur(The Light)"
+    },
+    {
+        "key": "25",
+        "value": " Al-Furqan(The Discrimination)"
+    },
+    {
+        "key": "26",
+        "value": " Ash-Shu’ara’(The Poets)"
+    },
+    {
+        "key": "27",
+        "value": " An-Naml(The Naml)"
+    },
+    {
+        "key": "28",
+        "value": " Al-Qasas(The Narrative)"
+    },
+    {
+        "key": "29",
+        "value": " Al-‘Ankabut(The Spider)"
+    },
+    {
+        "key": "30",
+        "value": " Ar-Rum(The Romans)"
+    },
+    {
+        "key": "31",
+        "value": " Luqman(Luqman)"
+    },
+    {
+        "key": "32",
+        "value": " As-Sajdah(The Adoration)"
+    },
+    {
+        "key": "33",
+        "value": " Al-Ahzab(The Allies)"
+    },
+    {
+        "key": "34",
+        "value": " Al-Saba’(The Saba’)"
+    },
+    {
+        "key": "35",
+        "value": " Al-Fatir(The Originator)"
+    },
+    {
+        "key": "36",
+        "value": " Ya Sin(Ya Sin)"
+    },
+    {
+        "key": "37",
+        "value": " As-Saffat(Those Ranging in Ranks)"
+    },
+    {
+        "key": "38",
+        "value": " Sad(Sad)"
+    },
+    {
+        "key": "39",
+        "value": " Az-Zumar(The Companies)"
+    },
+    {
+        "key": "40",
+        "value": " Al-Mu’min(The Believer)"
+    },
+    {
+        "key": "41",
+        "value": " Ha Mim(Ha Mim)"
+    },
+    {
+        "key": "42",
+        "value": " Ash-Shura(Counsel)"
+    },
+    {
+        "key": "43",
+        "value": " Az-Zukhruf(Gold)"
+    },
+    {
+        "key": "44",
+        "value": " Ad-Dukhan(The Drought)"
+    },
+    {
+        "key": "45",
+        "value": " Al-Jathiyah(The Kneeling)"
+    },
+    {
+        "key": "46",
+        "value": " Al-Ahqaf(The Sandhills)"
+    },
+    {
+        "key": "47",
+        "value": " Muhammad(Muhammad)"
+    },
+    {
+        "key": "48",
+        "value": " Al-Fath(The Victory)"
+    },
+    {
+        "key": "49",
+        "value": " Al-Hujurat(The Apartments)"
+    },
+    {
+        "key": "50",
+        "value": " Qaf(Qaf)"
+    },
+    {
+        "key": "51",
+        "value": " Ad-Dhariyat(The Scatterers)"
+    },
+    {
+        "key": "52",
+        "value": " At-Tur(The Mountain)"
+    },
+    {
+        "key": "53",
+        "value": " An-Najm(The Star)"
+    },
+    {
+        "key": "54",
+        "value": " Al-Qamar(The Moon)"
+    },
+    {
+        "key": "55",
+        "value": " Ar-Rahman(The Beneficent)"
+    },
+    {
+        "key": "56",
+        "value": " Al-Waqi’ah(The Event)"
+    },
+    {
+        "key": "57",
+        "value": " Al-Hadid(Iron)"
+    },
+    {
+        "key": "58",
+        "value": " Al-Mujadilah(The Pleading Woman)"
+    },
+    {
+        "key": "59",
+        "value": " Al-Hashr(The Banishment)"
+    },
+    {
+        "key": "60",
+        "value": " Al-Mumtahanah(The Woman who is Examined)"
+    },
+    {
+        "key": "61",
+        "value": " As-Saff(The Ranks)"
+    },
+    {
+        "key": "62",
+        "value": " Al-Jumu’ah(The Congregation)"
+    },
+    {
+        "key": "63",
+        "value": " Al-Munafiqun(The Hypocrites)"
+    },
+    {
+        "key": "64",
+        "value": " At-Taghabun(The Manifestation of Losses)"
+    },
+    {
+        "key": "65",
+        "value": " At-Talaq(Divorce)"
+    },
+    {
+        "key": "66",
+        "value": " At-Tahrim(The Prohibition)"
+    },
+    {
+        "key": "67",
+        "value": " Al-Mulk(The Kingdom)"
+    },
+    {
+        "key": "68",
+        "value": " Al-Qalam(The Pen)"
+    },
+    {
+        "key": "69",
+        "value": " Al-Haqqah(The Sure Truth)"
+    },
+    {
+        "key": "70",
+        "value": " Al-Ma’arij(The Ways of Ascent)"
+    },
+    {
+        "key": "71",
+        "value": " Nuh(Noah)"
+    },
+    {
+        "key": "72",
+        "value": " Al-Jinn(The Jinn)"
+    },
+    {
+        "key": "73",
+        "value": " Al-Muzzammil(The One Covering Himself)"
+    },
+    {
+        "key": "74",
+        "value": " Al-Muddaththir(The One Wrapping Himself Up)"
+    },
+    {
+        "key": "75",
+        "value": " Al-Qiyamah(The Resurrection)"
+    },
+    {
+        "key": "76",
+        "value": " Al-Insan(The Man)"
+    },
+    {
+        "key": "77",
+        "value": " Al-Mursalat(Those Sent Forth)"
+    },
+    {
+        "key": "78",
+        "value": " An-Naba’(The Announcement)"
+    },
+    {
+        "key": "79",
+        "value": " An-Nazi’at(Those Who Yearn)"
+    },
+    {
+        "key": "80",
+        "value": " ‘Abasa(He Frowned)"
+    },
+    {
+        "key": "81",
+        "value": " At-Takwir(The Folding Up)"
+    },
+    {
+        "key": "82",
+        "value": " Al-Infitar(The Cleaving)"
+    },
+    {
+        "key": "83",
+        "value": " At-Tatfif(Default in Duty)"
+    },
+    {
+        "key": "84",
+        "value": " Al-Inshiqaq(The Bursting Asunder)"
+    },
+    {
+        "key": "85",
+        "value": " Al-Buruj(The Stars)"
+    },
+    {
+        "key": "86",
+        "value": " At-Tariq(The Comer by Night)"
+    },
+    {
+        "key": "87",
+        "value": " Al-A’la(The Most High)"
+    },
+    {
+        "key": "88",
+        "value": " Al-Ghashiyah(The Overwhelming Event)"
+    },
+    {
+        "key": "89",
+        "value": " Al-Fajr(The Daybreak)"
+    },
+    {
+        "key": "90",
+        "value": " Al-Balad(The City)"
+    },
+    {
+        "key": "91",
+        "value": " Ash-Shams(The Sun)"
+    },
+    {
+        "key": "92",
+        "value": " Al-Lail(The Night)"
+    },
+    {
+        "key": "93",
+        "value": " Ad-Duha(The Brightness of the Day)"
+    },
+    {
+        "key": "94",
+        "value": " Al-Inshirah(The Expansion)"
+    },
+    {
+        "key": "95",
+        "value": " At-Tin(The Fig)"
+    },
+    {
+        "key": "96",
+        "value": " Al-‘Alaq(The Clot)"
+    },
+    {
+        "key": "97",
+        "value": " Al-Qadr(The Majesty)"
+    },
+    {
+        "key": "98",
+        "value": " Al-Bayyinah(The Clear Evidence)"
+    },
+    {
+        "key": "99",
+        "value": " Al-Zilzal(The Shaking)"
+    },
+    {
+        "key": "100",
+        "value": " Al-‘Adiyat(The Assaulters)"
+    },
+    {
+        "key": "101",
+        "value": " Al-Qari’ah(The Calamity)"
+    },
+    {
+        "key": "102",
+        "value": " At-Takathur(The Abundance of Wealth)"
+    },
+    {
+        "key": "103",
+        "value": " Al-‘Asr(The Time)"
+    },
+    {
+        "key": "104",
+        "value": " Al-Humazah(The Slanderer)"
+    },
+    {
+        "key": "105",
+        "value": " Al-Fil(The Elephant)"
+    },
+    {
+        "key": "106",
+        "value": " Al-Quraish(The Quraish)"
+    },
+    {
+        "key": "107",
+        "value": " Al-Ma’un(Acts of Kindness)"
+    },
+    {
+        "key": "108",
+        "value": " Al-Kauthar(The Abundance of Good)"
+    },
+    {
+        "key": "109",
+        "value": " Al-Kafirun(The Disbelievers)"
+    },
+    {
+        "key": "110",
+        "value": " An-Nasr(The Help)"
+    },
+    {
+        "key": "111",
+        "value": " Al-Lahab(The Flame)"
+    },
+    {
+        "key": "112",
+        "value": " Al-Ikhlas(The Unity)"
+    },
+    {
+        "key": "113",
+        "value": " Al-Falaq(The Dawn)"
+    },
+    {
+        "key": "114",
+        "value": " An-Nas(The Men)"
+    }
+]
